@@ -1,0 +1,18 @@
+[user]
+  name = xxx
+  email = xxx
+
+[alias]
+  co = checkout
+  cm = commit
+  cma = commit --amend
+  cman = commit --amend --no-edit
+  ps = push
+  st = status
+  ad = add
+  ps = push
+  ft = fetch
+  rb = rebase
+  df = diff
+  bc = branch
+  br = browse-remote
